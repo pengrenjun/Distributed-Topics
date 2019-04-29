@@ -10,6 +10,7 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>rpc-topic</module>
+      <module>zookeeper-topic</module>
     </modules>
 
     <name>Distributed-Topics</name>
