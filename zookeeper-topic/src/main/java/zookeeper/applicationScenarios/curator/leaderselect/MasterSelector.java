@@ -1,4 +1,4 @@
-package zookeeper.applicationScenarios.curator;
+package zookeeper.applicationScenarios.curator.leaderselect;
 
 import org.apache.curator.framework.CuratorFramework;
 import org.apache.curator.framework.CuratorFrameworkFactory;

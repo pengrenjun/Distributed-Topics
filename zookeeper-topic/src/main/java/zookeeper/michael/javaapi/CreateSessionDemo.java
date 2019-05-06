@@ -12,7 +12,9 @@ import java.util.concurrent.CountDownLatch;
  * 加群获取视频：608583947
  * 风骚的Michael 老师
  */
-public class CreateSessionDemo {
+public class
+
+CreateSessionDemo {
     private final static String CONNECTSTRING="192.168.11.129:2181,192.168.11.134:2181," +
             "192.168.11.135:2181,192.168.11.136:2181";
     private static CountDownLatch countDownLatch=new CountDownLatch(1);
